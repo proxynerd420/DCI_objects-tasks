@@ -4,11 +4,11 @@
 
 ### INFO: Alle Aufgaben können in der Datei 'lösung.js' bearbeitet werden. Ich habe jeden Task mit einem Divider unterteilt, von daher sollte es gut in der Konsole lesbar und separierbar sein.
 
-### INFO 2: Ihr werdet in der Datei 'lösung.js' in den Tasks den Kommentar '// ych' sehen. *ych* steht in diesem Fall für 'your code here'. Dort könnt ihr also innerhalb der Datei euren Code einfügen.
+### INFO 2: Ihr werdet in den Tasks den Kommentar '// ych' sehen. *ych* steht in diesem Fall für 'your code here'. Dort könnt ihr also innerhalb der datei euren Code einfügen.
 
 ### INFO 3: Wenn ihr im Verlauf der Aufgaben in eurem Console Log im adventurer-Object unter attack den value [Function (anonymous)] bekommt, ignoriert das gerne. Hauptsache die Aufgaben funktionieren. :D
 
-### INFO 4: Nicht wundern dass ihr bei Aufgabe 9 einen Fehler ausgegeben bekommt, das soll so sein. 
+### INFO 4: Nicht wundern dass ihr bei Aufgabe 9 einen Fehler ausgegeben bekommt, das liegt an der nicht beschreibbaren und nicht aufzählbaren Eigenschaft 'role'.
 
 ### INFO 5: Zum Abschluss: Bitte bescheißt euch nicht selbst. Ich habe euch eine Datei mit der Musterlösung angefügt damit ihr euren Code ggf. korrigieren könnt. Bitte nutzt das nicht aus, sondern versucht es erstmal selbst.
 
