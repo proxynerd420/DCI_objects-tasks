@@ -4,7 +4,7 @@
 
 ### INFO: Alle Aufgaben können in der Datei 'lösung.js' bearbeitet werden. Ich habe jeden Task mit einem Divider unterteilt, von daher sollte es gut in der Konsole lesbar und separierbar sein.
 
-### INFO 2: Ihr werdet in den Tasks den Kommentar '// ych' sehen. *ych* steht in diesem Fall für 'your code here'. Dort könnt ihr also innerhalb der datei euren Code einfügen.
+### INFO 2: Ihr werdet in den Tasks den Kommentar '// ych' sehen. *ych* steht in diesem Fall für 'your code here'. Dort könnt ihr also innerhalb der Datei euren Code einfügen.
 
 ### INFO 3: Wenn ihr im Verlauf der Aufgaben in eurem Console Log im adventurer-Object unter attack den value [Function (anonymous)] bekommt, ignoriert das gerne. Hauptsache die Aufgaben funktionieren. :D
 
