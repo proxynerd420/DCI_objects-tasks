@@ -2,7 +2,7 @@ console.clear()
 
 const divider = (input) =>
     {
-        const spacer = "=".repeat(5);
+        const spacer = "=".repeat(10);
         console.log("\n" + spacer, input, spacer, "\n");
     }
     
