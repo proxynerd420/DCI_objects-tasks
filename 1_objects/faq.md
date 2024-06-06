@@ -29,7 +29,7 @@
 
 ## Task 4: Array of Objects
 
-    1. How do I create an array of objects?
+    1. How do Ii create an array of objects?
     Use square brackets [] and separate objects with commas.
     
     2. How do I access a specific element in an array?
