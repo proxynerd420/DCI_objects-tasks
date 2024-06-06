@@ -1,6 +1,6 @@
 # Übungsaufgaben: Abenteurergruppe auf Monsterjagd im Wald
 
-### WICHTIG: NUTZT ZUM LÖSEN DER TASKS BITTE NODEMON, DAS IST ESSENZIELL!
+### WICHTIG: NUTZT ZUM LÖSEN DER TASKS BITTE NODEMON, DAS IST ESSENZIELL! UND AM ENDE BITTE NICHT PUSHEN WENN IHR KEINEN EIGENEN BRANCH ERSTELLT HABT!
 
 ### INFO: Alle Aufgaben können in der Datei 'lösung.js' bearbeitet werden. Ich habe jeden Task mit einem Divider unterteilt, von daher sollte es gut in der Konsole lesbar und separierbar sein.
 
